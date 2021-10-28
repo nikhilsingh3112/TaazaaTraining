@@ -1,0 +1,140 @@
+================================================
+[1:02 AM, 10/18/2021] Sandeep Sir Taazaa: https://www.tektutorialshub.com/angular/angular-http-error-handling/
+[2:04 AM, 10/18/2021] Sandeep Sir Taazaa: https://www.talkingdotnet.com/how-to-execute-stored-procedure-in-entity-framework-core/'
+[2:27 AM, 10/18/2021] Sandeep Sir Taazaa: https://www.entityframeworktutorial.net/efcore/working-with-stored-procedure-in-ef-core.aspx
+[2:29 AM, 10/18/2021] Sandeep Sir Taazaa: https://referbruv.com/blog/posts/working-with-stored-procedures-in-aspnet-core-ef-core
+[3:03 AM, 10/18/2021] Sandeep Sir Taazaa: https://www.freecodespot.com/blog/stored-procedure-in-entityframework/
+=======================================================
+
+
+
+What is the code for generating a token???
+
+
+
+What is the code for validating  a token???
+
+
+dotnet core has given the package for middleware authentication in configureservice and enable the authent
+
+
+Whenever user send the user name and password to service, service endpoint known as login will authenticate the password against the database table.. Once it is authenticated the next program will be generating a token.
+
+=============
+Template
+=============
+Nikhil@gmail.com
+Nikhil12345678
+
+
+=============
+Reactive
+=============
+nikhil12345
+
+nikhil999
+
+
+
+
+
+
+=================================================
+[Authorize]
+    [Route("api/[controller]")]
+    [ApiController]
+    public class BookController: ControllerBase
+    {
+        private readonly BookStoreContext _context;
+        public BookController(BookStoreContext context)
+        {
+            _context = context;
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetBooks()
+        {
+            var data = await _context.TblBook.ToListAsync();
+            return Ok(data);
+        }
+    }
+==================================================
+
+
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using TokenAuthentication.Data;
+using Microsoft.EntityFrameworkCore;
+
+namespace TokenAuthentication.Controllers
+{
+    
+[Authorize]
+    [Route("api/[controller]")]
+    [ApiController]
+    public class BookController: ControllerBase
+    {
+        private readonly TokenDbContext _context;
+        public BookController(TokenDbContext context)
+        {
+            _context = context;
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetBooks()
+        {
+            var data = await _context.Tblbooks.ToListAsync();
+            return Ok(data);
+        }
+    }
+}
+
+
+
+
+
+CREATE TABLE TblBook (
+	BookID  int generated always as identity,
+	ISBN VARCHAR ( 50 )  NOT NULL,
+	Title VARCHAR ( 50 ) NOT NULL,
+	Author VARCHAR ( 50 ) NOT NULL,
+	Description VARCHAR ( 50 ) NOT NULL,
+                  Publisher VARCHAR ( 50 ) NOT NULL,
+                  PublishedYear VARCHAR ( 50 ) NOT NULL,
+                  Price decimal NOT NULL,
+password VARCHAR NOT NULL
+        );
+
+
+
+
+token:-
+
+eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIzIiwidW5pcXVlX25hbWUiOiJAbWFpbC5jb20iLCJuYmYiOjE2MzQ1NDUzNDIsImV4cCI6MTYzNDYzMTc0MiwiaWF0IjoxNjM0NTQ1MzQyfQ.44_vDZVAuxgF4DA1559qWfL_ltX1_usV0vkcOg0OIKRgcpOfA2KjZlJyjSWWD1nLo7fHv114cDBh_6BY9CKdxg
+
+
+
+===========================================================================================
+  import { HttpClient, HttpResponse ,HttpHeaders} from '@angular/common/http';
+
+
+    var t=`eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTUzNzcxNTMyNSwiZXhwIjoxNTM3NzE4OTI1LCJuYmYiOjE1Mzc3MTUzMjUsImp0aSI6IlBKWVhnSkVyblQ0WjdLTDAiLCJzdWIiOjYsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.1vz5lwPlg6orzkBJijsbBNZrnFnUedsGJUs7BUs0tmM`;
+
+    var headers_object = new HttpHeaders();
+        headers_object.append('Content-Type', 'application/json');
+        headers_object.append("Authorization", "Bearer " + t);
+
+        const httpOptions = {
+          headers: headers_object
+        };
+
+
+   this.http.post(
+                  'http://localhost:8000/api/role/Post', {limit:10}, httpOptions
+                 ).subscribe(resp => {
+                  this.roles = console.log(resp)
+                  }
+                );
+
+
