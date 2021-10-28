@@ -1,0 +1,16 @@
+C:\aasignment 2\instanceVar_const\bin\Debug\net5.0\instanceVar_const.exe
+C:\aasignment 2\instanceVar_const\bin\Debug\net5.0\instanceVar_const.deps.json
+C:\aasignment 2\instanceVar_const\bin\Debug\net5.0\instanceVar_const.runtimeconfig.json
+C:\aasignment 2\instanceVar_const\bin\Debug\net5.0\instanceVar_const.runtimeconfig.dev.json
+C:\aasignment 2\instanceVar_const\bin\Debug\net5.0\instanceVar_const.dll
+C:\aasignment 2\instanceVar_const\bin\Debug\net5.0\ref\instanceVar_const.dll
+C:\aasignment 2\instanceVar_const\bin\Debug\net5.0\instanceVar_const.pdb
+C:\aasignment 2\instanceVar_const\obj\Debug\net5.0\instanceVar_const.csproj.AssemblyReference.cache
+C:\aasignment 2\instanceVar_const\obj\Debug\net5.0\instanceVar_const.GeneratedMSBuildEditorConfig.editorconfig
+C:\aasignment 2\instanceVar_const\obj\Debug\net5.0\instanceVar_const.AssemblyInfoInputs.cache
+C:\aasignment 2\instanceVar_const\obj\Debug\net5.0\instanceVar_const.AssemblyInfo.cs
+C:\aasignment 2\instanceVar_const\obj\Debug\net5.0\instanceVar_const.csproj.CoreCompileInputs.cache
+C:\aasignment 2\instanceVar_const\obj\Debug\net5.0\instanceVar_const.dll
+C:\aasignment 2\instanceVar_const\obj\Debug\net5.0\ref\instanceVar_const.dll
+C:\aasignment 2\instanceVar_const\obj\Debug\net5.0\instanceVar_const.pdb
+C:\aasignment 2\instanceVar_const\obj\Debug\net5.0\instanceVar_const.genruntimeconfig.cache

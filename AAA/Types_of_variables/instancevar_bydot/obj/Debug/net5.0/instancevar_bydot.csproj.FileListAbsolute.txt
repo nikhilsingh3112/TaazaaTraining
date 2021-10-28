@@ -1,0 +1,16 @@
+C:\aasignment 2\instancevar_bydot\obj\Debug\net5.0\instancevar_bydot.csproj.AssemblyReference.cache
+C:\aasignment 2\instancevar_bydot\obj\Debug\net5.0\instancevar_bydot.GeneratedMSBuildEditorConfig.editorconfig
+C:\aasignment 2\instancevar_bydot\obj\Debug\net5.0\instancevar_bydot.AssemblyInfoInputs.cache
+C:\aasignment 2\instancevar_bydot\obj\Debug\net5.0\instancevar_bydot.AssemblyInfo.cs
+C:\aasignment 2\instancevar_bydot\obj\Debug\net5.0\instancevar_bydot.csproj.CoreCompileInputs.cache
+C:\aasignment 2\instancevar_bydot\bin\Debug\net5.0\instancevar_bydot.exe
+C:\aasignment 2\instancevar_bydot\bin\Debug\net5.0\instancevar_bydot.deps.json
+C:\aasignment 2\instancevar_bydot\bin\Debug\net5.0\instancevar_bydot.runtimeconfig.json
+C:\aasignment 2\instancevar_bydot\bin\Debug\net5.0\instancevar_bydot.runtimeconfig.dev.json
+C:\aasignment 2\instancevar_bydot\bin\Debug\net5.0\instancevar_bydot.dll
+C:\aasignment 2\instancevar_bydot\bin\Debug\net5.0\ref\instancevar_bydot.dll
+C:\aasignment 2\instancevar_bydot\bin\Debug\net5.0\instancevar_bydot.pdb
+C:\aasignment 2\instancevar_bydot\obj\Debug\net5.0\instancevar_bydot.dll
+C:\aasignment 2\instancevar_bydot\obj\Debug\net5.0\ref\instancevar_bydot.dll
+C:\aasignment 2\instancevar_bydot\obj\Debug\net5.0\instancevar_bydot.pdb
+C:\aasignment 2\instancevar_bydot\obj\Debug\net5.0\instancevar_bydot.genruntimeconfig.cache

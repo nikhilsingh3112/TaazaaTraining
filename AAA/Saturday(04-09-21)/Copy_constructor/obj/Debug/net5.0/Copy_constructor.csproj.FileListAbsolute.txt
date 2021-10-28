@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Saturday(04-09-21)\Copy_constructor\bin\Debug\net5.0\Copy_constructor.exe
+C:\Users\HP\Desktop\Saturday(04-09-21)\Copy_constructor\bin\Debug\net5.0\Copy_constructor.deps.json
+C:\Users\HP\Desktop\Saturday(04-09-21)\Copy_constructor\bin\Debug\net5.0\Copy_constructor.runtimeconfig.json
+C:\Users\HP\Desktop\Saturday(04-09-21)\Copy_constructor\bin\Debug\net5.0\Copy_constructor.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Saturday(04-09-21)\Copy_constructor\bin\Debug\net5.0\Copy_constructor.dll
+C:\Users\HP\Desktop\Saturday(04-09-21)\Copy_constructor\bin\Debug\net5.0\ref\Copy_constructor.dll
+C:\Users\HP\Desktop\Saturday(04-09-21)\Copy_constructor\bin\Debug\net5.0\Copy_constructor.pdb
+C:\Users\HP\Desktop\Saturday(04-09-21)\Copy_constructor\obj\Debug\net5.0\Copy_constructor.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Saturday(04-09-21)\Copy_constructor\obj\Debug\net5.0\Copy_constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Saturday(04-09-21)\Copy_constructor\obj\Debug\net5.0\Copy_constructor.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Saturday(04-09-21)\Copy_constructor\obj\Debug\net5.0\Copy_constructor.AssemblyInfo.cs
+C:\Users\HP\Desktop\Saturday(04-09-21)\Copy_constructor\obj\Debug\net5.0\Copy_constructor.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Saturday(04-09-21)\Copy_constructor\obj\Debug\net5.0\Copy_constructor.dll
+C:\Users\HP\Desktop\Saturday(04-09-21)\Copy_constructor\obj\Debug\net5.0\ref\Copy_constructor.dll
+C:\Users\HP\Desktop\Saturday(04-09-21)\Copy_constructor\obj\Debug\net5.0\Copy_constructor.pdb
+C:\Users\HP\Desktop\Saturday(04-09-21)\Copy_constructor\obj\Debug\net5.0\Copy_constructor.genruntimeconfig.cache

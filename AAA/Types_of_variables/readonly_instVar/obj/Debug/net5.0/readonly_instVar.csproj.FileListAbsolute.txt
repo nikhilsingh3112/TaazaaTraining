@@ -1,0 +1,16 @@
+C:\aasignment 2\readonly_instVar\bin\Debug\net5.0\readonly_instVar.exe
+C:\aasignment 2\readonly_instVar\bin\Debug\net5.0\readonly_instVar.deps.json
+C:\aasignment 2\readonly_instVar\bin\Debug\net5.0\readonly_instVar.runtimeconfig.json
+C:\aasignment 2\readonly_instVar\bin\Debug\net5.0\readonly_instVar.runtimeconfig.dev.json
+C:\aasignment 2\readonly_instVar\bin\Debug\net5.0\readonly_instVar.dll
+C:\aasignment 2\readonly_instVar\bin\Debug\net5.0\ref\readonly_instVar.dll
+C:\aasignment 2\readonly_instVar\bin\Debug\net5.0\readonly_instVar.pdb
+C:\aasignment 2\readonly_instVar\obj\Debug\net5.0\readonly_instVar.csproj.AssemblyReference.cache
+C:\aasignment 2\readonly_instVar\obj\Debug\net5.0\readonly_instVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\aasignment 2\readonly_instVar\obj\Debug\net5.0\readonly_instVar.AssemblyInfoInputs.cache
+C:\aasignment 2\readonly_instVar\obj\Debug\net5.0\readonly_instVar.AssemblyInfo.cs
+C:\aasignment 2\readonly_instVar\obj\Debug\net5.0\readonly_instVar.csproj.CoreCompileInputs.cache
+C:\aasignment 2\readonly_instVar\obj\Debug\net5.0\readonly_instVar.dll
+C:\aasignment 2\readonly_instVar\obj\Debug\net5.0\ref\readonly_instVar.dll
+C:\aasignment 2\readonly_instVar\obj\Debug\net5.0\readonly_instVar.pdb
+C:\aasignment 2\readonly_instVar\obj\Debug\net5.0\readonly_instVar.genruntimeconfig.cache

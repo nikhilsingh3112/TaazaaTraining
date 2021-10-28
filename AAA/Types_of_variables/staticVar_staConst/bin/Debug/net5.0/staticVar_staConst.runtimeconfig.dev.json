@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\GEETIKA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\GEETIKA\\.nuget\\packages"
+    ]
+  }
+}

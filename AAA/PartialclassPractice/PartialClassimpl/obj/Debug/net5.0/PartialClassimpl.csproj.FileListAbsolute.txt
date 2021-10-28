@@ -1,0 +1,16 @@
+D:\PartialclassPractice\PartialClassimpl\bin\Debug\net5.0\PartialClassimpl.exe
+D:\PartialclassPractice\PartialClassimpl\bin\Debug\net5.0\PartialClassimpl.deps.json
+D:\PartialclassPractice\PartialClassimpl\bin\Debug\net5.0\PartialClassimpl.runtimeconfig.json
+D:\PartialclassPractice\PartialClassimpl\bin\Debug\net5.0\PartialClassimpl.runtimeconfig.dev.json
+D:\PartialclassPractice\PartialClassimpl\bin\Debug\net5.0\PartialClassimpl.dll
+D:\PartialclassPractice\PartialClassimpl\bin\Debug\net5.0\ref\PartialClassimpl.dll
+D:\PartialclassPractice\PartialClassimpl\bin\Debug\net5.0\PartialClassimpl.pdb
+D:\PartialclassPractice\PartialClassimpl\obj\Debug\net5.0\PartialClassimpl.csproj.AssemblyReference.cache
+D:\PartialclassPractice\PartialClassimpl\obj\Debug\net5.0\PartialClassimpl.GeneratedMSBuildEditorConfig.editorconfig
+D:\PartialclassPractice\PartialClassimpl\obj\Debug\net5.0\PartialClassimpl.AssemblyInfoInputs.cache
+D:\PartialclassPractice\PartialClassimpl\obj\Debug\net5.0\PartialClassimpl.AssemblyInfo.cs
+D:\PartialclassPractice\PartialClassimpl\obj\Debug\net5.0\PartialClassimpl.csproj.CoreCompileInputs.cache
+D:\PartialclassPractice\PartialClassimpl\obj\Debug\net5.0\PartialClassimpl.dll
+D:\PartialclassPractice\PartialClassimpl\obj\Debug\net5.0\ref\PartialClassimpl.dll
+D:\PartialclassPractice\PartialClassimpl\obj\Debug\net5.0\PartialClassimpl.pdb
+D:\PartialclassPractice\PartialClassimpl\obj\Debug\net5.0\PartialClassimpl.genruntimeconfig.cache

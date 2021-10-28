@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "instanceVar_mfunc/1.0.0": {
+        "runtime": {
+          "instanceVar_mfunc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "instanceVar_mfunc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

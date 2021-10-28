@@ -1,0 +1,16 @@
+C:\Miscellaneous\bin\Debug\net5.0\Miscellaneous.exe
+C:\Miscellaneous\bin\Debug\net5.0\Miscellaneous.deps.json
+C:\Miscellaneous\bin\Debug\net5.0\Miscellaneous.runtimeconfig.json
+C:\Miscellaneous\bin\Debug\net5.0\Miscellaneous.runtimeconfig.dev.json
+C:\Miscellaneous\bin\Debug\net5.0\Miscellaneous.dll
+C:\Miscellaneous\bin\Debug\net5.0\ref\Miscellaneous.dll
+C:\Miscellaneous\bin\Debug\net5.0\Miscellaneous.pdb
+C:\Miscellaneous\obj\Debug\net5.0\Miscellaneous.csproj.AssemblyReference.cache
+C:\Miscellaneous\obj\Debug\net5.0\Miscellaneous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Miscellaneous\obj\Debug\net5.0\Miscellaneous.AssemblyInfoInputs.cache
+C:\Miscellaneous\obj\Debug\net5.0\Miscellaneous.AssemblyInfo.cs
+C:\Miscellaneous\obj\Debug\net5.0\Miscellaneous.csproj.CoreCompileInputs.cache
+C:\Miscellaneous\obj\Debug\net5.0\Miscellaneous.dll
+C:\Miscellaneous\obj\Debug\net5.0\ref\Miscellaneous.dll
+C:\Miscellaneous\obj\Debug\net5.0\Miscellaneous.pdb
+C:\Miscellaneous\obj\Debug\net5.0\Miscellaneous.genruntimeconfig.cache

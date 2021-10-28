@@ -1,0 +1,16 @@
+C:\aasignment 2\staticVar_classname\bin\Debug\net5.0\staticVar_classname.exe
+C:\aasignment 2\staticVar_classname\bin\Debug\net5.0\staticVar_classname.deps.json
+C:\aasignment 2\staticVar_classname\bin\Debug\net5.0\staticVar_classname.runtimeconfig.json
+C:\aasignment 2\staticVar_classname\bin\Debug\net5.0\staticVar_classname.runtimeconfig.dev.json
+C:\aasignment 2\staticVar_classname\bin\Debug\net5.0\staticVar_classname.dll
+C:\aasignment 2\staticVar_classname\bin\Debug\net5.0\ref\staticVar_classname.dll
+C:\aasignment 2\staticVar_classname\bin\Debug\net5.0\staticVar_classname.pdb
+C:\aasignment 2\staticVar_classname\obj\Debug\net5.0\staticVar_classname.csproj.AssemblyReference.cache
+C:\aasignment 2\staticVar_classname\obj\Debug\net5.0\staticVar_classname.GeneratedMSBuildEditorConfig.editorconfig
+C:\aasignment 2\staticVar_classname\obj\Debug\net5.0\staticVar_classname.AssemblyInfoInputs.cache
+C:\aasignment 2\staticVar_classname\obj\Debug\net5.0\staticVar_classname.AssemblyInfo.cs
+C:\aasignment 2\staticVar_classname\obj\Debug\net5.0\staticVar_classname.csproj.CoreCompileInputs.cache
+C:\aasignment 2\staticVar_classname\obj\Debug\net5.0\staticVar_classname.dll
+C:\aasignment 2\staticVar_classname\obj\Debug\net5.0\ref\staticVar_classname.dll
+C:\aasignment 2\staticVar_classname\obj\Debug\net5.0\staticVar_classname.pdb
+C:\aasignment 2\staticVar_classname\obj\Debug\net5.0\staticVar_classname.genruntimeconfig.cache

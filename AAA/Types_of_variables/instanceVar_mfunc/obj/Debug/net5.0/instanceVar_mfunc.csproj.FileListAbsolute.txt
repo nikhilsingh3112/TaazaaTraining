@@ -1,0 +1,16 @@
+C:\aasignment 2\instanceVar_mfunc\obj\Debug\net5.0\instanceVar_mfunc.csproj.AssemblyReference.cache
+C:\aasignment 2\instanceVar_mfunc\obj\Debug\net5.0\instanceVar_mfunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\aasignment 2\instanceVar_mfunc\obj\Debug\net5.0\instanceVar_mfunc.AssemblyInfoInputs.cache
+C:\aasignment 2\instanceVar_mfunc\obj\Debug\net5.0\instanceVar_mfunc.AssemblyInfo.cs
+C:\aasignment 2\instanceVar_mfunc\obj\Debug\net5.0\instanceVar_mfunc.csproj.CoreCompileInputs.cache
+C:\aasignment 2\instanceVar_mfunc\obj\Debug\net5.0\instanceVar_mfunc.dll
+C:\aasignment 2\instanceVar_mfunc\obj\Debug\net5.0\ref\instanceVar_mfunc.dll
+C:\aasignment 2\instanceVar_mfunc\obj\Debug\net5.0\instanceVar_mfunc.pdb
+C:\aasignment 2\instanceVar_mfunc\bin\Debug\net5.0\instanceVar_mfunc.exe
+C:\aasignment 2\instanceVar_mfunc\bin\Debug\net5.0\instanceVar_mfunc.deps.json
+C:\aasignment 2\instanceVar_mfunc\bin\Debug\net5.0\instanceVar_mfunc.runtimeconfig.json
+C:\aasignment 2\instanceVar_mfunc\bin\Debug\net5.0\instanceVar_mfunc.runtimeconfig.dev.json
+C:\aasignment 2\instanceVar_mfunc\bin\Debug\net5.0\instanceVar_mfunc.dll
+C:\aasignment 2\instanceVar_mfunc\bin\Debug\net5.0\ref\instanceVar_mfunc.dll
+C:\aasignment 2\instanceVar_mfunc\bin\Debug\net5.0\instanceVar_mfunc.pdb
+C:\aasignment 2\instanceVar_mfunc\obj\Debug\net5.0\instanceVar_mfunc.genruntimeconfig.cache

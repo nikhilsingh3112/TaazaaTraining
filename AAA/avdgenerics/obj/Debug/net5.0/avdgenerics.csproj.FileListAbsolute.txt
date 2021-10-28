@@ -1,0 +1,16 @@
+C:\Users\HP\avdgenerics\bin\Debug\net5.0\avdgenerics.exe
+C:\Users\HP\avdgenerics\bin\Debug\net5.0\avdgenerics.deps.json
+C:\Users\HP\avdgenerics\bin\Debug\net5.0\avdgenerics.runtimeconfig.json
+C:\Users\HP\avdgenerics\bin\Debug\net5.0\avdgenerics.runtimeconfig.dev.json
+C:\Users\HP\avdgenerics\bin\Debug\net5.0\avdgenerics.dll
+C:\Users\HP\avdgenerics\bin\Debug\net5.0\ref\avdgenerics.dll
+C:\Users\HP\avdgenerics\bin\Debug\net5.0\avdgenerics.pdb
+C:\Users\HP\avdgenerics\obj\Debug\net5.0\avdgenerics.csproj.AssemblyReference.cache
+C:\Users\HP\avdgenerics\obj\Debug\net5.0\avdgenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\avdgenerics\obj\Debug\net5.0\avdgenerics.AssemblyInfoInputs.cache
+C:\Users\HP\avdgenerics\obj\Debug\net5.0\avdgenerics.AssemblyInfo.cs
+C:\Users\HP\avdgenerics\obj\Debug\net5.0\avdgenerics.csproj.CoreCompileInputs.cache
+C:\Users\HP\avdgenerics\obj\Debug\net5.0\avdgenerics.dll
+C:\Users\HP\avdgenerics\obj\Debug\net5.0\ref\avdgenerics.dll
+C:\Users\HP\avdgenerics\obj\Debug\net5.0\avdgenerics.pdb
+C:\Users\HP\avdgenerics\obj\Debug\net5.0\avdgenerics.genruntimeconfig.cache

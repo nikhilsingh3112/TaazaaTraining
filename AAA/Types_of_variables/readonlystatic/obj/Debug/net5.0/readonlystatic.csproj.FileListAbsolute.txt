@@ -1,0 +1,16 @@
+C:\aasignment 2\readonlystatic\bin\Debug\net5.0\readonlystatic.exe
+C:\aasignment 2\readonlystatic\bin\Debug\net5.0\readonlystatic.deps.json
+C:\aasignment 2\readonlystatic\bin\Debug\net5.0\readonlystatic.runtimeconfig.json
+C:\aasignment 2\readonlystatic\bin\Debug\net5.0\readonlystatic.runtimeconfig.dev.json
+C:\aasignment 2\readonlystatic\bin\Debug\net5.0\readonlystatic.dll
+C:\aasignment 2\readonlystatic\bin\Debug\net5.0\ref\readonlystatic.dll
+C:\aasignment 2\readonlystatic\bin\Debug\net5.0\readonlystatic.pdb
+C:\aasignment 2\readonlystatic\obj\Debug\net5.0\readonlystatic.csproj.AssemblyReference.cache
+C:\aasignment 2\readonlystatic\obj\Debug\net5.0\readonlystatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\aasignment 2\readonlystatic\obj\Debug\net5.0\readonlystatic.AssemblyInfoInputs.cache
+C:\aasignment 2\readonlystatic\obj\Debug\net5.0\readonlystatic.AssemblyInfo.cs
+C:\aasignment 2\readonlystatic\obj\Debug\net5.0\readonlystatic.csproj.CoreCompileInputs.cache
+C:\aasignment 2\readonlystatic\obj\Debug\net5.0\readonlystatic.dll
+C:\aasignment 2\readonlystatic\obj\Debug\net5.0\ref\readonlystatic.dll
+C:\aasignment 2\readonlystatic\obj\Debug\net5.0\readonlystatic.pdb
+C:\aasignment 2\readonlystatic\obj\Debug\net5.0\readonlystatic.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Practece_Indexer\bin\Debug\net5.0\Practece_Indexer.exe
+D:\Practece_Indexer\bin\Debug\net5.0\Practece_Indexer.deps.json
+D:\Practece_Indexer\bin\Debug\net5.0\Practece_Indexer.runtimeconfig.json
+D:\Practece_Indexer\bin\Debug\net5.0\Practece_Indexer.runtimeconfig.dev.json
+D:\Practece_Indexer\bin\Debug\net5.0\Practece_Indexer.dll
+D:\Practece_Indexer\bin\Debug\net5.0\ref\Practece_Indexer.dll
+D:\Practece_Indexer\bin\Debug\net5.0\Practece_Indexer.pdb
+D:\Practece_Indexer\obj\Debug\net5.0\Practece_Indexer.csproj.AssemblyReference.cache
+D:\Practece_Indexer\obj\Debug\net5.0\Practece_Indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practece_Indexer\obj\Debug\net5.0\Practece_Indexer.AssemblyInfoInputs.cache
+D:\Practece_Indexer\obj\Debug\net5.0\Practece_Indexer.AssemblyInfo.cs
+D:\Practece_Indexer\obj\Debug\net5.0\Practece_Indexer.csproj.CoreCompileInputs.cache
+D:\Practece_Indexer\obj\Debug\net5.0\Practece_Indexer.dll
+D:\Practece_Indexer\obj\Debug\net5.0\ref\Practece_Indexer.dll
+D:\Practece_Indexer\obj\Debug\net5.0\Practece_Indexer.pdb
+D:\Practece_Indexer\obj\Debug\net5.0\Practece_Indexer.genruntimeconfig.cache

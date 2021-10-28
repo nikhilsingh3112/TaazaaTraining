@@ -1,0 +1,118 @@
+//++++++++++++++ Copy Constructor +++++++++++++++++++++++
+using System;
+
+namespace Hello_world
+{
+    class Person
+    {
+        public string resume{get;set;}//instance variable
+        public Person(string r) // parameterize constructor
+        {
+            resume=r;
+        }
+        public Person() // default constructor
+        {
+
+        }
+    }
+    class Program
+    {
+        public static void Main()
+        {
+            Person gurpreet=new Person("My Resume is prepared");
+            Person person=new Person();
+            Console.WriteLine(person.resume+" "+gurpreet.resume);
+            person=gurpreet;
+            Console.WriteLine(person.resume);
+            person.resume="show 12 years of exp";
+            Console.WriteLine(gurpreet.resume);
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+using System;
+
+namespace Fundamental
+{
+    class Person
+    {
+        public String Resume { get; set; } //instance variable
+
+        public Person(string rm)
+        {
+            Resume = rm;
+        }
+        public Person()
+        {
+
+        }
+        
+        
+    }
+    class rnd1
+    {
+        static void Main()
+        {
+            Person Keshav = new Person("My Resume is prepared");
+            Person Subhas = new Person();
+            Console.WriteLine(Subhas.Resume + " " + Keshav.Resume);
+            Console.ReadLine();
+            Subhas = Keshav;
+            Console.WriteLine(Subhas.Resume);
+            Subhas.Resume = "Show 12 years of experience";
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proxy Object:-
+
+Proxy is a structural design pattern that provides an object that acts as a substitute for a real service object used by a client. A proxy receives client requests, does some work (access control, caching, etc.) and then passes the request to a service object.
+
+
+
+Type of constructor:-
+Default, private, static, parameterize constructor
+their is one more constructor called copy constructor
+copy constructor  is a mechanism to assign data from one object to another object...
+
+
+
+conclusion:-
+[8:35 PM, 9/4/2021] Gurpreet Taazaa: if we assign one object to another object it means first object is giving address to another object this is major security issue why i give  address of my object to some rather that i should give value of my object to another object.
+
+copy constructor is a technique or a mechanism not to give address of one object to another object (newly object)  rather than i should give value of one object to another object (newly object) this mechanism is called copy constructor and shallow copy.........
